@@ -1,0 +1,16 @@
+# blastn
+# Iteration: 0
+# Query: NM_173391.3 Mus musculus tryptophan hydroxylase 2 (Tph2), mRNA
+# RID: 5H1YRBNT016
+# Database: RefseqRNA/Refseq_RNA_10090
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NM_173391.3	NM_173391.3	100.000	2626	0	0	1	2626	1	2626	0.0	4736
+NM_173391.3	NM_001136084.2	71.368	1184	331	7	329	1508	195	1374	2.49e-164	583
+NM_173391.3	NM_009414.3	71.368	1184	331	7	329	1508	506	1685	2.49e-164	583
+NM_173391.3	XM_036152912.1	71.368	1184	331	7	329	1508	822	2001	2.49e-164	583
+NM_173391.3	XM_011250846.3	72.776	933	252	2	577	1508	358	1289	1.38e-148	531
+NM_173391.3	NM_008777.3	67.742	713	224	4	578	1287	574	1283	4.24e-60	237
+NM_173391.3	NM_009377.2	68.288	473	144	5	815	1284	761	1230	9.34e-37	160
+
+
